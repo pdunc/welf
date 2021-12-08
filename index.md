@@ -4,8 +4,10 @@ Summary of investments.
 
 ## Uniswap
 
-![This is an image](assets/images/trendline_uniswap.png)
+[Trendline Uniswap](assets/images/trendline_uniswap.png)
+[24h Uniswap](assets/images/24hr_line_uniswap.png)
 
 ## Betfair
 
-![This is an image](assets/images/trendline_betfair.png)
+[Trendline Betfair](assets/images/trendline_betfair.png)
+[24h Betfair](assets/images/24hr_line_betfair.png)
